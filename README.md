@@ -38,6 +38,6 @@
 <details>
   <summary>:zap: Most used languages</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GazzyLifesense)](https://github.com/yapac/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GazzyLifesense)]
 
 </details>
