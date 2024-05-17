@@ -9,7 +9,7 @@
 
 ### Connect with me | 联系我:
 
-### <img alt="Three.js" src="https://img.shields.io/badge/WeChat: GazzyLifesense-%234fc08d.svg?style=for-the-badge&logo=WeChat&logoColor=white"/>
+<img alt="Three.js" src="https://img.shields.io/badge/WeChat: GazzyLifesense-%234fc08d.svg?style=for-the-badge&logo=WeChat&logoColor=white"/>
 
 ### Languages and Tools | 语言及工具:
 
@@ -27,7 +27,7 @@
 
 ### Something else of interest | 其它感兴趣的东西:
 
-### <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/> <img alt="Three.js" src="https://img.shields.io/badge/Cocos Creator-%23121011.svg?style=for-the-badge&logo=cocos&logoColor=%2355c2e1"/> <img alt="Three.js" src="https://img.shields.io/badge/three.js-%23121011.svg?style=for-the-badge&logo=threedotjs&logoColor=white"/> <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/> 
+<img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/> <img alt="Three.js" src="https://img.shields.io/badge/Cocos Creator-%23121011.svg?style=for-the-badge&logo=cocos&logoColor=%2355c2e1"/> <img alt="Three.js" src="https://img.shields.io/badge/three.js-%23121011.svg?style=for-the-badge&logo=threedotjs&logoColor=white"/> <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/> 
 
 
 
@@ -38,6 +38,6 @@
 <details>
   <summary>:zap: Most used languages</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GazzyLifesense)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GazzyLifeSense)
 
 </details>
